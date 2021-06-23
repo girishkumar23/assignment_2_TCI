@@ -23,4 +23,4 @@ Executing Shell Script for to identify AWS EC2 instances in a region and filter 
 * Enter Linux terminal and open any desired diretory
 * Create a file by using vi editor save with extension of ".sh" like file_name.sh
 * Copy the content which is available in git repo.
-* run ./file_name.sh to run the code.
+* run ./instance_detection.sh to run the code.
