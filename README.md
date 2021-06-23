@@ -1,5 +1,5 @@
 # Assignment_2_Total Cloud Inc
-##Finding Active Cases From Covid India API
+## Finding Active Cases From Covid India API
 ### Overview :
 I have used jq command line processer to query the json data returned from covid API
 
@@ -9,7 +9,7 @@ I have used jq command line processer to query the json data returned from covid
 
 
 
-##Finding AWS Instances
+## Finding AWS Instances
 * Language Used :   
 Shell Script
 * Prerequisites :   
